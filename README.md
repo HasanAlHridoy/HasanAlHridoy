@@ -4,9 +4,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/pritom-shajed/"><img src="https://komarev.com/ghpvc/?username=pritom-shajed&label=Profile%20views&color=0e75b6&style=flat" alt="pritom-shajed" /> </a>
-  <a href="https://github.com/pritom-shajed"><img src="https://img.shields.io/github/followers/pritom-shajed?label=Followers&style=social" alt="GitHub Badge"></a> 
-  <a href="https://github.com/pritom-shajed?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
+  <a href="https://github.com/HasanAlHridoy"><img src="https://komarev.com/ghpvc/?username=HasanAlHridoy&label=Profile%20views&color=0e75b6&style=flat" alt="HasanAlHridoy" /> </a>
+  <a href="https://github.com/HasanAlHridoy"><img src="https://img.shields.io/github/followers/HasanAlHridoy?label=Followers&style=social" alt="GitHub Badge"></a> 
+  <a href="https://github.com/HasanAlHridoy?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="GitHub Open Source Badge"></a> 
 </p>
 
 <br>
