@@ -17,7 +17,7 @@
 
 <p align="left">
 
-- 🔭 &nbsp; I’m currently working at **Codezzi** and **Akij Venture**<img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
+- 🔭 &nbsp; I’m currently working at **Rentyard** and **Flexloop**<img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
 
 - 🌱 &nbsp; I’m currently learning **Flutter in depth.** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
 
