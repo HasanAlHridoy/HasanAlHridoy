@@ -23,7 +23,7 @@
 
 - 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="assets/gifs/waving-hand-joypixels.gif" height="22px" width="22px">
 
-- 👨‍💻 &nbsp; Read more about my projects at **[My Portfolio]()** <img src="assets/gifs/robot-joypixels.gif" height="22px" width="22px">
+- 👨‍💻 &nbsp; Read more about my projects at **[My Portfolio](https://hasanchowdhury.vercel.app)** <img src="assets/gifs/robot-joypixels.gif" height="22px" width="22px">
 
 - 📫 &nbsp; Want to reach me - **[Email](mailto:hasanjchowdhury@gmail.com)** <img src="assets/gifs/thinking-face-joypixels.gif" height="22px" width="22px">
 <p>
